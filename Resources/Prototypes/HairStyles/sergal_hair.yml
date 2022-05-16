@@ -1,0 +1,19 @@
+  - categories: HumanHair
+    id: SergalHairMedicore
+    sprite:
+      sprite: Mobs/Customization/sergal_markings/hair.rsi
+      state: sergal_medicore
+    type: spriteAccessory
+
+  - categories: HumanHair
+    id: SergalHairFairytail
+    sprite:
+      sprite: Mobs/Customization/sergal_markings/hair.rsi
+      state: sergal_fairytail
+    type: spriteAccessory
+  - categories: HumanHair
+    id: SergalHairTapered
+    sprite:
+      sprite: Mobs/Customization/sergal_markings/hair.rsi
+      state: sergal_tapered
+    type: spriteAccessory

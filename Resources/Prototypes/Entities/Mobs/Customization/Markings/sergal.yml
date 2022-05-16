@@ -1,0 +1,44 @@
+- type: marking
+  id: SergalHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Sergal]
+  sprites:
+  - sprite: Mobs/Customization/sergal_markings/markings.rsi
+    state: sergal_head
+
+- type: marking
+  id: SergalMarkings
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Sergal]
+  sprites:
+  - sprite: Mobs/Customization/sergal_markings/markings.rsi
+    state: sergal_torso
+
+- type: marking
+  id: SergalTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Sergal]
+  sprites:
+  - sprite: Mobs/Customization/sergal_markings/tail.rsi
+    state: sergal
+
+- type: marking
+  id: SergalEars
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [Sergal]
+  sprites:
+  - sprite: Mobs/Customization/sergal_markings/ears.rsi
+    state: sergal_ears
+
+- type: marking
+  id: SergalEyes
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Sergal]
+  sprites:
+  - sprite: Mobs/Customization/sergal_markings/eye.rsi
+    state: eyes_sergal

@@ -30,6 +30,14 @@
   dollPrototype: MobSlimePersonDummy
   skinColoration: Hues
 
+- type: species
+  id: Sergal
+  name: species-name-Sergal
+  roundStart: true
+  prototype: MobEltus
+  dollPrototype: MobSergalDummy
+  skinColoration: Hues
+
 #- type: species
 #  id: Vox
 #  name: Vox
