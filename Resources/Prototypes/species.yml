@@ -35,12 +35,12 @@
 
 - type: species
   id: Sergal
-  name: species-name-Sergal
+  name: species-name-sergal
   roundStart: true
-  prototype: MobEltus
+  prototype: MobSergal
   dollPrototype: MobSergalDummy
   skinColoration: Hues
-  
+
 - type: species
   id: Skeleton
   name: Skeleton
