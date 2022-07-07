@@ -34,6 +34,14 @@
   skinColoration: Hues
 
 - type: species
+  id: Sergal
+  name: species-name-Sergal
+  roundStart: true
+  prototype: MobEltus
+  dollPrototype: MobSergalDummy
+  skinColoration: Hues
+  
+- type: species
   id: Skeleton
   name: Skeleton
   roundStart: false #unspooky, change it in october
